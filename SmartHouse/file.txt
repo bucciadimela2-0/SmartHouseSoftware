@@ -1,0 +1,704 @@
+Service: Service: OnAllLights,  Device: 1 numTimeBrokenDevice: 1
+
+Service: OnAllLights,  Device: 2 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 3 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 4 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 5 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 6 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 7 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 8 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 9 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 10 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 11 numTimeBrokenDevice: 1
+
+Service: OnAllLights,  Device: 12 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 13 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 14 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 15 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 16 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 17 numTimeBrokenDevice: 0
+
+Service: OnLightsBathroom,  Device: 1 numTimeBrokenDevice: 1
+
+Service: OnLightsBathroom,  Device: 3 numTimeBrokenDevice: 0
+
+Service: OnLightsKitchen,  Device: 2 numTimeBrokenDevice: 0
+
+Service: OnLightsKitchen,  Device: 4 numTimeBrokenDevice: 0
+
+Service: OnLightsLiving,  Device: 5 numTimeBrokenDevice: 0
+
+Service: OnLightsLiving,  Device: 6 numTimeBrokenDevice: 0
+
+Service: OnLightsLiving,  Device: 7 numTimeBrokenDevice: 0
+
+Service: OnLightsLiving,  Device: 8 numTimeBrokenDevice: 0
+
+Service: OnLightsHallway,  Device: 9 numTimeBrokenDevice: 0
+
+Service: OnLightsHallway,  Device: 10 numTimeBrokenDevice: 0
+
+Service: OnLightsCorridor,  Device: 11 numTimeBrokenDevice: 1
+
+Service: OnLightsBedroom1,  Device: 14 numTimeBrokenDevice: 0
+
+Service: OnLightsBedroom1,  Device: 15 numTimeBrokenDevice: 0
+
+Service: OnLightsBedroom2,  Device: 12 numTimeBrokenDevice: 0
+
+Service: OnLightsBedroom2,  Device: 13 numTimeBrokenDevice: 0
+
+Service: OnHomeOffice,  Device: 16 numTimeBrokenDevice: 0
+
+Service: OnHomeOffice,  Device: 17 numTimeBrokenDevice: 0
+
+Service: NighttimeArea,  Device: 11 numTimeBrokenDevice: 1
+
+Service: NighttimeArea,  Device: 12 numTimeBrokenDevice: 0
+
+Service: NighttimeArea,  Device: 13 numTimeBrokenDevice: 0
+
+Service: NighttimeArea,  Device: 14 numTimeBrokenDevice: 0
+
+Service: NighttimeArea,  Device: 15 numTimeBrokenDevice: 0
+
+Service: InsertAlarm,  Device: 23 numTimeBrokenDevice: 0
+
+Service: InsertAlarm,  Device: 24 numTimeBrokenDevice: 0
+
+Service: InsertAlarm,  Device: 25 numTimeBrokenDevice: 0
+
+Service: InsertAlarm,  Device: 26 numTimeBrokenDevice: 0
+
+Service: InsertAlarm,  Device: 27 numTimeBrokenDevice: 0
+
+Service: OnAllLights,  Device: 1 numTimegetDeviceOn: 0
+
+Service: OnAllLights,  Device: 2 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 3 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 4 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 5 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 6 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 7 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 8 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 9 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 10 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 11 numTimegetDeviceOn: 0
+
+Service: OnAllLights,  Device: 12 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 13 numTimegetDeviceOn: 2
+
+Service: OnAllLights,  Device: 14 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 15 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 16 numTimegetDeviceOn: 1
+
+Service: OnAllLights,  Device: 17 numTimegetDeviceOn: 1
+
+Service: OnLightsBathroom,  Device: 1 numTimegetDeviceOn: 0
+
+Service: OnLightsBathroom,  Device: 3 numTimegetDeviceOn: 1
+
+Service: OnLightsKitchen,  Device: 2 numTimegetDeviceOn: 1
+
+Service: OnLightsKitchen,  Device: 4 numTimegetDeviceOn: 1
+
+Service: OnLightsLiving,  Device: 5 numTimegetDeviceOn: 1
+
+Service: OnLightsLiving,  Device: 6 numTimegetDeviceOn: 1
+
+Service: OnLightsLiving,  Device: 7 numTimegetDeviceOn: 1
+
+Service: OnLightsLiving,  Device: 8 numTimegetDeviceOn: 1
+
+Service: OnLightsHallway,  Device: 9 numTimegetDeviceOn: 1
+
+Service: OnLightsHallway,  Device: 10 numTimegetDeviceOn: 1
+
+Service: OnLightsCorridor,  Device: 11 numTimegetDeviceOn: 0
+
+Service: OnLightsBedroom1,  Device: 14 numTimegetDeviceOn: 1
+
+Service: OnLightsBedroom1,  Device: 15 numTimegetDeviceOn: 1
+
+Service: OnLightsBedroom2,  Device: 12 numTimegetDeviceOn: 1
+
+Service: OnLightsBedroom2,  Device: 13 numTimegetDeviceOn: 2
+
+Service: OnHomeOffice,  Device: 16 numTimegetDeviceOn: 1
+
+Service: OnHomeOffice,  Device: 17 numTimegetDeviceOn: 1
+
+Service: NighttimeArea,  Device: 11 numTimegetDeviceOn: 0
+
+Service: NighttimeArea,  Device: 12 numTimegetDeviceOn: 1
+
+Service: NighttimeArea,  Device: 13 numTimegetDeviceOn: 2
+
+Service: NighttimeArea,  Device: 14 numTimegetDeviceOn: 1
+
+Service: NighttimeArea,  Device: 15 numTimegetDeviceOn: 1
+
+Service: InsertAlarm,  Device: 23 numTimegetDeviceOn: 0
+
+Service: InsertAlarm,  Device: 24 numTimegetDeviceOn: 0
+
+Service: InsertAlarm,  Device: 25 numTimegetDeviceOn: 0
+
+Service: InsertAlarm,  Device: 26 numTimegetDeviceOn: 0
+
+Service: InsertAlarm,  Device: 27 numTimegetDeviceOn: 0
+
+Service: OnAllLights,  Device: 1 numTimegetDeviceOff: 0
+
+Service: OnAllLights,  Device: 2 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 3 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 4 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 5 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 6 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 7 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 8 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 9 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 10 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 11 numTimegetDeviceOff: 0
+
+Service: OnAllLights,  Device: 12 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 13 numTimegetDeviceOff: 2
+
+Service: OnAllLights,  Device: 14 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 15 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 16 numTimegetDeviceOff: 1
+
+Service: OnAllLights,  Device: 17 numTimegetDeviceOff: 1
+
+Service: OnLightsBathroom,  Device: 1 numTimegetDeviceOff: 0
+
+Service: OnLightsBathroom,  Device: 3 numTimegetDeviceOff: 1
+
+Service: OnLightsKitchen,  Device: 2 numTimegetDeviceOff: 1
+
+Service: OnLightsKitchen,  Device: 4 numTimegetDeviceOff: 1
+
+Service: OnLightsLiving,  Device: 5 numTimegetDeviceOff: 1
+
+Service: OnLightsLiving,  Device: 6 numTimegetDeviceOff: 1
+
+Service: OnLightsLiving,  Device: 7 numTimegetDeviceOff: 1
+
+Service: OnLightsLiving,  Device: 8 numTimegetDeviceOff: 1
+
+Service: OnLightsHallway,  Device: 9 numTimegetDeviceOff: 1
+
+Service: OnLightsHallway,  Device: 10 numTimegetDeviceOff: 1
+
+Service: OnLightsCorridor,  Device: 11 numTimegetDeviceOff: 0
+
+Service: OnLightsBedroom1,  Device: 14 numTimegetDeviceOff: 1
+
+Service: OnLightsBedroom1,  Device: 15 numTimegetDeviceOff: 1
+
+Service: OnLightsBedroom2,  Device: 12 numTimegetDeviceOff: 1
+
+Service: OnLightsBedroom2,  Device: 13 numTimegetDeviceOff: 2
+
+Service: OnHomeOffice,  Device: 16 numTimegetDeviceOff: 1
+
+Service: OnHomeOffice,  Device: 17 numTimegetDeviceOff: 1
+
+Service: NighttimeArea,  Device: 11 numTimegetDeviceOff: 0
+
+Service: NighttimeArea,  Device: 12 numTimegetDeviceOff: 1
+
+Service: NighttimeArea,  Device: 13 numTimegetDeviceOff: 2
+
+Service: NighttimeArea,  Device: 14 numTimegetDeviceOff: 1
+
+Service: NighttimeArea,  Device: 15 numTimegetDeviceOff: 1
+
+Service: InsertAlarm,  Device: 23 numTimegetDeviceOff: 0
+
+Service: InsertAlarm,  Device: 24 numTimegetDeviceOff: 0
+
+Service: InsertAlarm,  Device: 25 numTimegetDeviceOff: 0
+
+Service: InsertAlarm,  Device: 26 numTimegetDeviceOff: 0
+
+Service: InsertAlarm,  Device: 27 numTimegetDeviceOff: 0
+
+Service: OnAllLights,  Device: 1 numNumEnergySaving: 1
+
+Service: OnAllLights,  Device: 2 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 3 numNumEnergySaving: 1
+
+Service: OnAllLights,  Device: 4 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 5 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 6 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 7 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 8 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 9 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 10 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 11 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 12 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 13 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 14 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 15 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 16 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 17 numNumEnergySaving: 0
+
+Service: OnLightsBathroom,  Device: 1 numNumEnergySaving: 1
+
+Service: OnLightsBathroom,  Device: 3 numNumEnergySaving: 1
+
+Service: OnLightsKitchen,  Device: 2 numNumEnergySaving: 0
+
+Service: OnLightsKitchen,  Device: 4 numNumEnergySaving: 0
+
+Service: OnLightsLiving,  Device: 5 numNumEnergySaving: 0
+
+Service: OnLightsLiving,  Device: 6 numNumEnergySaving: 0
+
+Service: OnLightsLiving,  Device: 7 numNumEnergySaving: 0
+
+Service: OnLightsLiving,  Device: 8 numNumEnergySaving: 0
+
+Service: OnLightsHallway,  Device: 9 numNumEnergySaving: 0
+
+Service: OnLightsHallway,  Device: 10 numNumEnergySaving: 0
+
+Service: OnLightsCorridor,  Device: 11 numNumEnergySaving: 0
+
+Service: OnLightsBedroom1,  Device: 14 numNumEnergySaving: 0
+
+Service: OnLightsBedroom1,  Device: 15 numNumEnergySaving: 0
+
+Service: OnLightsBedroom2,  Device: 12 numNumEnergySaving: 0
+
+Service: OnLightsBedroom2,  Device: 13 numNumEnergySaving: 0
+
+Service: OnHomeOffice,  Device: 16 numNumEnergySaving: 0
+
+Service: OnHomeOffice,  Device: 17 numNumEnergySaving: 0
+
+Service: NighttimeArea,  Device: 11 numNumEnergySaving: 0
+
+Service: NighttimeArea,  Device: 12 numNumEnergySaving: 0
+
+Service: NighttimeArea,  Device: 13 numNumEnergySaving: 0
+
+Service: NighttimeArea,  Device: 14 numNumEnergySaving: 0
+
+Service: NighttimeArea,  Device: 15 numNumEnergySaving: 0
+
+Service: InsertAlarm,  Device: 23 numNumEnergySaving: 0
+
+Service: InsertAlarm,  Device: 24 numNumEnergySaving: 0
+
+Service: InsertAlarm,  Device: 25 numNumEnergySaving: 0
+
+Service: InsertAlarm,  Device: 26 numNumEnergySaving: 0
+
+Service: InsertAlarm,  Device: 27 numNumEnergySaving: 0
+
+Service: OnAllLights,  Device: 1 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 2 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 3 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 4 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 5 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 6 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 7 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 8 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 9 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 10 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 11 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 12 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 13 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 14 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 15 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 16 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 17 numMaxLuminosity: 0
+
+Service: OnLightsBathroom,  Device: 1 numMaxLuminosity: 0
+
+Service: OnLightsBathroom,  Device: 3 numMaxLuminosity: 0
+
+Service: OnLightsKitchen,  Device: 2 numMaxLuminosity: 0
+
+Service: OnLightsKitchen,  Device: 4 numMaxLuminosity: 0
+
+Service: OnLightsLiving,  Device: 5 numMaxLuminosity: 0
+
+Service: OnLightsLiving,  Device: 6 numMaxLuminosity: 0
+
+Service: OnLightsLiving,  Device: 7 numMaxLuminosity: 0
+
+Service: OnLightsLiving,  Device: 8 numMaxLuminosity: 0
+
+Service: OnLightsHallway,  Device: 9 numMaxLuminosity: 0
+
+Service: OnLightsHallway,  Device: 10 numMaxLuminosity: 0
+
+Service: OnLightsCorridor,  Device: 11 numMaxLuminosity: 0
+
+Service: OnLightsBedroom1,  Device: 14 numMaxLuminosity: 0
+
+Service: OnLightsBedroom1,  Device: 15 numMaxLuminosity: 0
+
+Service: OnLightsBedroom2,  Device: 12 numMaxLuminosity: 0
+
+Service: OnLightsBedroom2,  Device: 13 numMaxLuminosity: 0
+
+Service: OnHomeOffice,  Device: 16 numMaxLuminosity: 0
+
+Service: OnHomeOffice,  Device: 17 numMaxLuminosity: 0
+
+Service: NighttimeArea,  Device: 11 numMaxLuminosity: 0
+
+Service: NighttimeArea,  Device: 12 numMaxLuminosity: 0
+
+Service: NighttimeArea,  Device: 13 numMaxLuminosity: 0
+
+Service: NighttimeArea,  Device: 14 numMaxLuminosity: 0
+
+Service: NighttimeArea,  Device: 15 numMaxLuminosity: 0
+
+Service: InsertAlarm,  Device: 23 numMaxLuminosity: 0
+
+Service: InsertAlarm,  Device: 24 numMaxLuminosity: 0
+
+Service: InsertAlarm,  Device: 25 numMaxLuminosity: 0
+
+Service: InsertAlarm,  Device: 26 numMaxLuminosity: 0
+
+Service: InsertAlarm,  Device: 27 numMaxLuminosity: 0
+
+Service: OnAllLights,  Device: 1 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 2 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 3 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 4 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 5 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 6 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 7 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 8 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 9 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 10 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 11 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 12 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 13 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 14 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 15 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 16 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 17 numMinLuminosity: 0
+
+Service: OnLightsBathroom,  Device: 1 numMinLuminosity: 0
+
+Service: OnLightsBathroom,  Device: 3 numMinLuminosity: 0
+
+Service: OnLightsKitchen,  Device: 2 numMinLuminosity: 0
+
+Service: OnLightsKitchen,  Device: 4 numMinLuminosity: 0
+
+Service: OnLightsLiving,  Device: 5 numMinLuminosity: 0
+
+Service: OnLightsLiving,  Device: 6 numMinLuminosity: 0
+
+Service: OnLightsLiving,  Device: 7 numMinLuminosity: 0
+
+Service: OnLightsLiving,  Device: 8 numMinLuminosity: 0
+
+Service: OnLightsHallway,  Device: 9 numMinLuminosity: 0
+
+Service: OnLightsHallway,  Device: 10 numMinLuminosity: 0
+
+Service: OnLightsCorridor,  Device: 11 numMinLuminosity: 0
+
+Service: OnLightsBedroom1,  Device: 14 numMinLuminosity: 0
+
+Service: OnLightsBedroom1,  Device: 15 numMinLuminosity: 0
+
+Service: OnLightsBedroom2,  Device: 12 numMinLuminosity: 0
+
+Service: OnLightsBedroom2,  Device: 13 numMinLuminosity: 0
+
+Service: OnHomeOffice,  Device: 16 numMinLuminosity: 0
+
+Service: OnHomeOffice,  Device: 17 numMinLuminosity: 0
+
+Service: NighttimeArea,  Device: 11 numMinLuminosity: 0
+
+Service: NighttimeArea,  Device: 12 numMinLuminosity: 0
+
+Service: NighttimeArea,  Device: 13 numMinLuminosity: 0
+
+Service: NighttimeArea,  Device: 14 numMinLuminosity: 0
+
+Service: NighttimeArea,  Device: 15 numMinLuminosity: 0
+
+Service: InsertAlarm,  Device: 23 numMinLuminosity: 0
+
+Service: InsertAlarm,  Device: 24 numMinLuminosity: 0
+
+Service: InsertAlarm,  Device: 25 numMinLuminosity: 0
+
+Service: InsertAlarm,  Device: 26 numMinLuminosity: 0
+
+Service: InsertAlarm,  Device: 27 numMinLuminosity: 0
+
+Service: OnAllLights,  Device: 1 numMinTemp: 0
+
+Service: OnAllLights,  Device: 2 numMinTemp: 0
+
+Service: OnAllLights,  Device: 3 numMinTemp: 0
+
+Service: OnAllLights,  Device: 4 numMinTemp: 0
+
+Service: OnAllLights,  Device: 5 numMinTemp: 0
+
+Service: OnAllLights,  Device: 6 numMinTemp: 0
+
+Service: OnAllLights,  Device: 7 numMinTemp: 0
+
+Service: OnAllLights,  Device: 8 numMinTemp: 0
+
+Service: OnAllLights,  Device: 9 numMinTemp: 0
+
+Service: OnAllLights,  Device: 10 numMinTemp: 0
+
+Service: OnAllLights,  Device: 11 numMinTemp: 0
+
+Service: OnAllLights,  Device: 12 numMinTemp: 0
+
+Service: OnAllLights,  Device: 13 numMinTemp: 0
+
+Service: OnAllLights,  Device: 14 numMinTemp: 0
+
+Service: OnAllLights,  Device: 15 numMinTemp: 0
+
+Service: OnAllLights,  Device: 16 numMinTemp: 0
+
+Service: OnAllLights,  Device: 17 numMinTemp: 0
+
+Service: OnLightsBathroom,  Device: 1 numMinTemp: 0
+
+Service: OnLightsBathroom,  Device: 3 numMinTemp: 0
+
+Service: OnLightsKitchen,  Device: 2 numMinTemp: 0
+
+Service: OnLightsKitchen,  Device: 4 numMinTemp: 0
+
+Service: OnLightsLiving,  Device: 5 numMinTemp: 0
+
+Service: OnLightsLiving,  Device: 6 numMinTemp: 0
+
+Service: OnLightsLiving,  Device: 7 numMinTemp: 0
+
+Service: OnLightsLiving,  Device: 8 numMinTemp: 0
+
+Service: OnLightsHallway,  Device: 9 numMinTemp: 0
+
+Service: OnLightsHallway,  Device: 10 numMinTemp: 0
+
+Service: OnLightsCorridor,  Device: 11 numMinTemp: 0
+
+Service: OnLightsBedroom1,  Device: 14 numMinTemp: 0
+
+Service: OnLightsBedroom1,  Device: 15 numMinTemp: 0
+
+Service: OnLightsBedroom2,  Device: 12 numMinTemp: 0
+
+Service: OnLightsBedroom2,  Device: 13 numMinTemp: 0
+
+Service: OnHomeOffice,  Device: 16 numMinTemp: 0
+
+Service: OnHomeOffice,  Device: 17 numMinTemp: 0
+
+Service: NighttimeArea,  Device: 11 numMinTemp: 0
+
+Service: NighttimeArea,  Device: 12 numMinTemp: 0
+
+Service: NighttimeArea,  Device: 13 numMinTemp: 0
+
+Service: NighttimeArea,  Device: 14 numMinTemp: 0
+
+Service: NighttimeArea,  Device: 15 numMinTemp: 0
+
+Service: InsertAlarm,  Device: 23 numMinTemp: 0
+
+Service: InsertAlarm,  Device: 24 numMinTemp: 0
+
+Service: InsertAlarm,  Device: 25 numMinTemp: 0
+
+Service: InsertAlarm,  Device: 26 numMinTemp: 0
+
+Service: InsertAlarm,  Device: 27 numMinTemp: 0
+
+Service: OnAllLights,  Device: 1 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 2 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 3 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 4 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 5 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 6 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 7 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 8 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 9 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 10 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 11 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 12 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 13 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 14 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 15 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 16 numMaxTemp: 0
+
+Service: OnAllLights,  Device: 17 numMaxTemp: 0
+
+Service: OnLightsBathroom,  Device: 1 numMaxTemp: 0
+
+Service: OnLightsBathroom,  Device: 3 numMaxTemp: 0
+
+Service: OnLightsKitchen,  Device: 2 numMaxTemp: 0
+
+Service: OnLightsKitchen,  Device: 4 numMaxTemp: 0
+
+Service: OnLightsLiving,  Device: 5 numMaxTemp: 0
+
+Service: OnLightsLiving,  Device: 6 numMaxTemp: 0
+
+Service: OnLightsLiving,  Device: 7 numMaxTemp: 0
+
+Service: OnLightsLiving,  Device: 8 numMaxTemp: 0
+
+Service: OnLightsHallway,  Device: 9 numMaxTemp: 0
+
+Service: OnLightsHallway,  Device: 10 numMaxTemp: 0
+
+Service: OnLightsCorridor,  Device: 11 numMaxTemp: 0
+
+Service: OnLightsBedroom1,  Device: 14 numMaxTemp: 0
+
+Service: OnLightsBedroom1,  Device: 15 numMaxTemp: 0
+
+Service: OnLightsBedroom2,  Device: 12 numMaxTemp: 0
+
+Service: OnLightsBedroom2,  Device: 13 numMaxTemp: 0
+
+Service: OnHomeOffice,  Device: 16 numMaxTemp: 0
+
+Service: OnHomeOffice,  Device: 17 numMaxTemp: 0
+
+Service: NighttimeArea,  Device: 11 numMaxTemp: 0
+
+Service: NighttimeArea,  Device: 12 numMaxTemp: 0
+
+Service: NighttimeArea,  Device: 13 numMaxTemp: 0
+
+Service: NighttimeArea,  Device: 14 numMaxTemp: 0
+
+Service: NighttimeArea,  Device: 15 numMaxTemp: 0
+
+Service: InsertAlarm,  Device: 23 numMaxTemp: 0
+
+Service: InsertAlarm,  Device: 24 numMaxTemp: 0
+
+Service: InsertAlarm,  Device: 25 numMaxTemp: 0
+
+Service: InsertAlarm,  Device: 26 numMaxTemp: 0
+
+Service: InsertAlarm,  Device: 27 numMaxTemp: 0
+

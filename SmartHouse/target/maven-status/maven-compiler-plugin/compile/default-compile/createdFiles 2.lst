@@ -1,0 +1,12 @@
+DeviceDto.class
+Main.class
+Observer.class
+Device.class
+DigitalTwin.class
+DTO.class
+DeviceDao.class
+Dao.class
+Manager.class
+ConnectionManager.class
+Service.class
+Component.class
